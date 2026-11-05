@@ -1,0 +1,6 @@
+{
+  "name": "Chronos 3D: Procedural WebGL Studio",
+  "description": "Interactive Three.js 3D showcase featuring procedural composite models, PBR studio lighting, exploded mechanical views, and real-time kinematics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
